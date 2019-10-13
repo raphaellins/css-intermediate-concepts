@@ -1,0 +1,23 @@
+{
+  "name": "css-intermediate-concepts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaellins/css-intermediate-concepts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaellins/css-intermediate-concepts/issues"
+  },
+  "homepage": "https://github.com/raphaellins/css-intermediate-concepts#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
